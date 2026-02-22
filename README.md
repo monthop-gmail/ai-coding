@@ -1,7 +1,11 @@
-# AI Coding Agents Comparison
+# AI Coding
 
-เปรียบเทียบ AI Coding Agents ยอดนิยมในรูปแบบ "มนุษย์"
+รวมเรื่องต่างๆ เกี่ยวกับ AI Coding Agents และเครื่องมือสำหรับ Developer
 
-## เอกสาร
+## เนื้อหา
 
-- [เปรียบเทียบรูปร่างคน](./docs/AI_Coding_Agents_Comparison.md)
+- [เปรียบเทียบ AI Coding Agents (รูปร่างคน)](./docs/AI_Coding_Agents_Comparison.md)
+
+---
+
+*Contributions และ Ideas ใหม่ๆ ยินดีครับ!*
